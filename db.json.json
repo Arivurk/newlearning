@@ -1,0 +1,17 @@
+{
+"Employees":[
+
+{"id" : 1,
+"name" : "arivu",
+"mail" : "ar223@gmail.com"
+},
+{"id" : 2,
+"name" : "arivurk",
+"mail" : "ar003@gmail.com"
+},
+{"id" : 3,
+"name" : "rkarivu",
+"mail" : "ar12323@gmail.com"
+}
+]
+}
